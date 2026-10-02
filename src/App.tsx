@@ -20,6 +20,7 @@ const emptyInquiry: Inquiry = {
   notes: "",
 };
 
+// Production photography used by the Vercel build.
 const images = {
   hero: "https://images.unsplash.com/photo-1769326541248-5e09a8ace25b?auto=format&fit=crop&fm=jpg&q=84&w=2200",
   living: "https://images.unsplash.com/photo-1768144092684-c1a5dd6c7aad?auto=format&fit=crop&fm=jpg&q=84&w=2200",
